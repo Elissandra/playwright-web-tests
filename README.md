@@ -14,6 +14,7 @@ O escopo do projeto de automação abrange testes funcionais dos cenários:
 
 * Login
 * Screenshot (página e elemento)
+* Test Report
 
 
 # Ferramentas Utilizadas
