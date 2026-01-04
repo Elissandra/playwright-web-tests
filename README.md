@@ -5,7 +5,7 @@ Projeto para implementar teste de automação web (CI/CD) com Playwright no site
 
 # Objetivo
 
-Automatizar os cenários de testes funcionais de acesso de usuário na aplicação e screenshot (de página e elemento) através de execução de testes via pipeline, gerando o relatório com resultado dos testes.
+Automatizar os cenários de testes funcionais de acesso de usuário na aplicação e screenshot (de página e elemento) através de execução de testes via pipeline, gerando o relatório com resultado dos testes (Summary/Artifacts/playwright-report).
 
   
 # Escopo
